@@ -7,3 +7,7 @@ I am documenting my journey to keep track of my progress and to share my experie
 Now that I am creating this repository, I have two years of programming experience 
 <br/>
 It suddenly occurred to me to document my learning and even review my previous learning through documentation.
+<hr/>
+
+# List of demo repositories
+1 - [use mediatR in .net](https://github.com/AminMatini/dotnet-mediatR-demo) 
